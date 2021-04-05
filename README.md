@@ -6,7 +6,3 @@
 <a href="https://www.abuseipdb.com/user/55701" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks" alt="AbuseIPDB Contributor Badge">
 	<img src="https://www.abuseipdb.com/contributor/55701.svg" height="100px" width="400">
 </a>
-<center>
-<script src="https://discordbotlist.com/widget/index.js" async></script>
-<dbl-widget bot-id="bot-stranger-bot" centered></dbl-widget>
-</center
